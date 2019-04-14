@@ -10,4 +10,4 @@ print(response)
 # for multiple sentence as array
 text=["I am trying to imagine you with a personality.","This is shit."]
 response=paralleldots.batch_emotion(text)
-print(response)
+print(response) 
